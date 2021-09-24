@@ -1,0 +1,6 @@
+{
+  "name": "myNoteApp",
+  "stage": "dev",
+  "region": "eu-west-3",
+  "lint": true
+}
